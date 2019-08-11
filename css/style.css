@@ -102,7 +102,7 @@ text-decoration: none;
 
 .left ul{
 position: relative;
-margin-top: 120%;
+margin-top: 100%;
 }
 
 .leftmenu li{
@@ -148,7 +148,7 @@ border-right: 1px solid #16043e;
 
 .bottom ul{
 position: relative;
-margin-top: 171%;
+margin-top: 151%;
 }
 
 .bottommenu li{
@@ -193,7 +193,7 @@ height: auto;
 
 .right ul{
 position: relative;
-margin-top: 98.5%;
+margin-top: 85%;
 }
 
 .rightmenu li{
@@ -273,7 +273,7 @@ font-weight: 400;
 position: absolute;
 text-shadow: 1px 1px 1px red;
 right: 10%;
-margin-top: -3%;
+margin-top: 3%;
 }
 
 p2{
@@ -320,7 +320,7 @@ color: #ffffff;
 font-size: 0.7vw;
 font-weight: lighter;
 position: absolute;
-margin-top: 2%;
+margin-top: 2.5%;
 margin-left: 10.5%;   
 }
 
@@ -778,6 +778,11 @@ width: 10%;
 margin-top: 3%;
 }
 
+.left ul{
+position: relative;
+margin-bottom:2;
+}
+       
 .left p{
 font-family: 'Gotham Pro';
 color: #ffffff;
@@ -959,7 +964,7 @@ color: #ffffff;
 font-size: 1vw;
 font-weight: lighter;
 position: absolute;
-margin-top: 2.3%;
+margin-top: 2.5%;
 margin-left: 13%;   
 }
         
@@ -1090,6 +1095,11 @@ width: 15%;
 right: 10%;
 }
 
+.left ul {
+position:relative;
+margin-bottom:2%;      
+}
+       
 .left p{
 font-family: 'Gotham Pro';
 color: #ffffff;
@@ -1109,7 +1119,7 @@ color: #CDAD62;
 font-size: 3vw;
 position: absolute;
 margin-left: 1%;
-margin-top: -3%;
+margin-top: 3%;
 text-shadow: 1px 1px 5px #707070;
 }
 
